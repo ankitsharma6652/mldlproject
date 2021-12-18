@@ -1,0 +1,15 @@
+Storage Access keys for Azure->
+DefaultEndpointsProtocol=https;AccountName=mlopsclass;AccountKey=jsTMo6BgaGsEuyxJk/8eT6Xsa/WUNy0FJ8RvxZcpmwPrwPkj86ia8g4aSkS1/I2Qfi3G6Koj3U4oaaQnHImkZw==;EndpointSuffix=core.windows.net
+
+Mongodb local -
+
+localhost:27017
+
+mail app password google - opttrqzzusuxhwgn
+
+MONGODB ATLAS-
+
+mongodb+srv://admin:<password>@cluster0.pwqaz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+
